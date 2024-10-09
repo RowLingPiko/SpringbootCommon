@@ -1,0 +1,11 @@
+spring:
+    application:
+        name: Common
+    profiles:
+        active: dev
+logging:
+    pattern:
+        dateformat: yyyy-MM-dd HH:mm:ss
+
+sa-token:
+    token-name: Authorization
