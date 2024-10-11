@@ -1,4 +1,4 @@
-package cn.voidtech.common.controller;
+package cn.voidtech.common.config.handler;
 
 import cn.dev33.satoken.exception.NotLoginException;
 import cn.dev33.satoken.exception.NotPermissionException;
